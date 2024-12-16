@@ -1,0 +1,47 @@
+{
+    "name": "Guardian of the Baltic Sea",
+    "description": "The silent guardian of the Baltic Sea, cloaked in an air of calm and precision. Though her power remains understated, her agility and presence are unmatched in her domain.",
+    "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Silent Watcher"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Frost Blue"
+      },
+      {
+        "trait_type": "Cloak",
+        "value": "Sea Mist Veil"
+      },
+      {
+        "trait_type": "Level",
+        "value": 10
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 1.7
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Calm"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Agility Boost",
+        "value": 12
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed Increase",
+        "value": 15
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+  

@@ -1,0 +1,46 @@
+{
+  "name": "Ocean Master of the Black Sea",
+  "description": "The ultimate guardian of the seas, the Ocean Master of the Black Sea embodies unparalleled power and mastery over the ocean’s depths. His presence strikes fear into the hearts of intruders while inspiring awe among allies. As the strongest of all, he reigns supreme over the waves and currents.",
+  "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/7.jpg",
+  "attributes": [
+      {
+          "trait_type": "Base", 
+          "value": "Supreme Power"
+      },
+      {
+          "trait_type": "Eyes", 
+          "value": "Abyssal Glow"
+      },
+      {
+          "trait_type": "Crown", 
+          "value": "Eternal Spikes"
+      },
+      {
+          "trait_type": "Level", 
+          "value": 18
+      },
+      {
+          "trait_type": "Stamina", 
+          "value": 2.5
+      },
+      {
+          "trait_type": "Personality", 
+          "value": "Unyielding"
+      },
+      {
+          "display_type": "boost_number", 
+          "trait_type": "Tidal Mastery", 
+          "value": 25
+      },
+      {
+          "display_type": "boost_percentage", 
+          "trait_type": "Strength Increase", 
+          "value": 30
+      },
+      {
+          "display_type": "number", 
+          "trait_type": "Generation", 
+          "value": 1
+      }
+  ]
+}

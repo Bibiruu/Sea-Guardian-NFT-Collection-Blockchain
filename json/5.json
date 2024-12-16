@@ -1,0 +1,47 @@
+{
+    "name": "Hidden Sovereign of the Black Sea",
+    "description": "A shadowy figure cloaked in a dark hood, the Hidden Sovereign of the Black Sea is a guardian whose true power lies veiled beneath layers of secrecy. He watches over the depths in silence, his aura of mystery warning intruders to stay away.",
+    "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/5.jpg",
+    "attributes": [
+      {
+        "trait_type": "Base", 
+        "value": "Shadowy Presence"
+      },
+      {
+        "trait_type": "Eyes", 
+        "value": "Glowing"
+      },
+      {
+        "trait_type": "Cloak", 
+        "value": "Dark Veil"
+      },
+      {
+        "trait_type": "Level", 
+        "value": 7
+      },
+      {
+        "trait_type": "Stamina", 
+        "value": 1.6
+      },
+      {
+        "trait_type": "Personality", 
+        "value": "Mysterious"
+      },
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Shadow Power", 
+        "value": 12
+      },
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Stealth Ability", 
+        "value": 20
+      },
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 1
+      }
+    ]
+  }
+  

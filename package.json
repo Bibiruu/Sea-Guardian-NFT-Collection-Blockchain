@@ -1,0 +1,30 @@
+{
+  "name": "sea-guardian-nft-collection-blockchain",
+  "version": "1.0.0",
+  "description": "Created and NFT Collection that is deployed in frontend and deployed in Opensea for selling",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibiruu/Sea-Guardian-NFT-Collection-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibiruu/Sea-Guardian-NFT-Collection-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Bibiruu/Sea-Guardian-NFT-Collection-Blockchain#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "ethers": "^6.13.4",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.16"
+  }
+}

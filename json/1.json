@@ -1,0 +1,46 @@
+{
+    "name": "Mystic Guardian of the Mediterranean",
+    "description": "A legendary protector of the Mediterranean, the Mystic Guardian exudes passion, elegance, and a fiery resolve. With unmatched grace, she safeguards the Mediterranean’s sapphire waters, vibrant marine life, and rich cultural heritage.",
+    "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Base", 
+        "value": "Ethereal Beauty"
+      },
+      {
+        "trait_type": "Eyes", 
+        "value": "Radiant"
+      },
+      {
+        "trait_type": "Aura", 
+        "value": "Golden Glow"
+      },
+      {
+        "trait_type": "Level", 
+        "value": 13
+      },
+      {
+        "trait_type": "Stamina", 
+        "value": 1.8
+      },
+      {
+        "trait_type": "Personality", 
+        "value": "Charismatic"
+      },
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Marine Power", 
+        "value": 16
+      },
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Charm Effect", 
+        "value": 15
+      },
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 1
+      }
+    ]
+  }

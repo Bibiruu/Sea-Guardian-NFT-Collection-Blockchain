@@ -1,0 +1,47 @@
+{
+    "name": "Spiked Fury of the Baltic Sea",
+    "description": "Transformed into a force of unrelenting power, the Spiked Fury of the Baltic Sea channels raw energy and sharp precision. With her spiked crown, dazzling armor, and floating hair, she is a swift and agile warrior, defending the Baltic with unmatched ferocity.",
+    "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/8.jpg",
+    "attributes": [
+      {
+        "trait_type": "Base", 
+        "value": "Sharp Precision"
+      },
+      {
+        "trait_type": "Eyes", 
+        "value": "Piercing"
+      },
+      {
+        "trait_type": "Crown", 
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Level", 
+        "value": 14
+      },
+      {
+        "trait_type": "Stamina", 
+        "value": 2.0
+      },
+      {
+        "trait_type": "Personality", 
+        "value": "Fierce"
+      },
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Speed Boost", 
+        "value": 18
+      },
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Agility Increase", 
+        "value": 20
+      },
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 1
+      }
+    ]
+  }
+  

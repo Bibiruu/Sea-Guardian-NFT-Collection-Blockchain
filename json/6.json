@@ -1,0 +1,47 @@
+{
+    "name": "Eternal Sentinel of the South China Sea",
+    "description": "A calm yet imposing force, the Eternal Sentinel maintains balance and stability across the South China Sea. With unmatched precision and power, he shields the waters from harm.",
+    "image": "https://ipfs.io/ipfs/bafybeiabu56vf2stio7vlzu5abklegi5ijf6tf4b622enus4xqtk5g2eqe/6.jpg",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Balanced Guardian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Deep Blue"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Emerald Shard Armor"
+      },
+      {
+        "trait_type": "Level",
+        "value": 12
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 2.0
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Steadfast"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Tidal Force",
+        "value": 17
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Resilience Boost",
+        "value": 18
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+  
