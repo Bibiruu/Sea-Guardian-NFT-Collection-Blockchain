@@ -1,0 +1,47 @@
+{
+    "nfts": [
+      {
+        "name": "Mystic Guardian of the Mediterranean",
+        "symbol": "SGC",
+        "copies": 8,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Guardian of the Baltic Sea",
+        "symbol": "SGC",
+        "copies": 1,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Crimson Fury of the Red Sea",
+        "symbol": "SGC",
+        "copies": 8,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Sovereign of the Mediterranean",
+        "symbol": "SGC",
+        "copies": 8,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Hidden Sovereign of the Black Sea",
+        "symbol": "SGC",
+        "copies": 8,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Eternal Sentinel of the South China Sea",
+        "symbol": "SGC",
+        "copies": 1,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "name": "Ocean Master of the Black Sea",
+        "symbol": "SGC",
+        "copies": 1,
+        "image": "https://via.placeholder.com/200"
+      }
+    ]
+  }
+  
