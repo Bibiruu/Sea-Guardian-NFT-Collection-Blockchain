@@ -19,8 +19,11 @@
   "homepage": "https://github.com/Bibiruu/Sea-Guardian-NFT-Collection-Blockchain#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^5.1.0",
+    "axios": "^1.7.9",
+    "create-react-app": "^5.0.1",
     "ethers": "^6.13.4",
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",

@@ -1,0 +1,14 @@
+console.log("Current token count:", currentTokenCount1.toString());
+const currentTokenCount1 = await seaGuardians.tokenCount();
+const currentTokenCount = await seaGuardians.tokenCount();
+const tokenCount = await seaGuardians.tokenCount();
+const tokenCount = await SeaGuardians.tokenCount();
+console.log("Current token count:", tokenCount.toString());
+const tokenCount = await seaGuardians.tokenCount();
+const balance = await seaGuardians.balanceOf("0x6971Faf98ab25A4C7e198583a93c7a83Bb7A2475", 8);
+const metadataUri = await seaGuardians.uri(8);
+await tx.wait();
+const tx = await seaGuardians.mint(1);
+const seaGuardians = await SeaGuardians.attach(contractAddress);
+const SeaGuardians = await ethers.getContractFactory("SeaGuardians");
+const contractAddress = "0x6971Faf98ab25A4C7e198583a93c7a83Bb7A2475";

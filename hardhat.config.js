@@ -12,7 +12,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 });
 
 module.exports = {
-  solidity: "0.8.2",
+  solidity: "0.8.22",
   networks: {
     polygonAmoy: {
       url: process.env.AMOY_RPC_URL,

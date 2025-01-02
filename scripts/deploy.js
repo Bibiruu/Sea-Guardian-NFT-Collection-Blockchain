@@ -6,13 +6,24 @@ async function main() {
     const [ deployer ] = await ethers.getSigners();
     console.log("Deploying signers", deployer.address);
     //.sol contract name precisely
-    const BlueSiren = await ethers.getContractFactory("BlueSirenERC1155");
+    const SeaGuardians = await ethers.getContractFactory("SeaGuardians");
     //deployed version of contract, name & symbol
-    const blueSiren = await BlueSiren.deploy("Blue Siren Collectibles", "BSNFT");
+    const seaGuardians = await SeaGuardians.deploy(
+        "SeaGuardians Collection", 
+        "SGC",
+        "https://ipfs.io/ipfs/bafybeicx7alkilnsmne4utqs3kcrsefi2mho4csela3mmlzgmiqdvlku64/",
+    );
     
     //mint, copying the CID .json file
-    await blueSiren.mint(5, "https://ipfs.io/ipfs/bafkreibdjmlx7n664tci5i26obd4ooj7lrvf66ca6h7rzdmwqvocy67hvu");
-    console.log("Congratulations, Blue Siren NFT successfully minted!")
+    await seaGuardians.mint(8); //1 Mediterranean 
+    await seaGuardians.mint(8); //2 Baltic basic
+    await seaGuardians.mint(1); //3 Red sea(rare)
+    await seaGuardians.mint(8); //4 Mediterranean evolved
+    await seaGuardians.mint(8); //5 Black Sea
+    await seaGuardians.mint(8); //6 CHina Sea
+    await seaGuardians.mint(1); //7 Ocean master/(rare)
+    await seaGuardians.mint(1); //8 Baltic Sea(rare)
+    console.log("Congratulations, SeaGuardian Collection successfully minted!")
 }   
 
 main()
