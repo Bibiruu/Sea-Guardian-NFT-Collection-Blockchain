@@ -39,3 +39,18 @@ background-color: white;
 border-radius: 20px;
 padding: 20px;
 `;
+
+export const CloseButton = styled.span`
+position: absolute;
+right: 0; //right corner 
+top: 0;      
+padding: 20px 25px 0 0;
+font-size: 20px;
+font-weight: bold;
+cursor: point;
+`
+export const AttributeText = styled.h4`
+    color:gray;
+    margin:0;
+    display: inline; //next to each other
+`
