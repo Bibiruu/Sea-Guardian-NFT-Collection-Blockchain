@@ -38,8 +38,8 @@
       ]
     },
     "/Users/mariaso/Blockchain projects/Sea-Guardian-NFT-Collection-Blockchain/contracts/SeaGuardians.sol": {
-      "lastModificationDate": 1734875218468,
-      "contentHash": "66de3d5a75a6b250c1ed1455043f9910",
+      "lastModificationDate": 1735388874716,
+      "contentHash": "6e999bf67b703b76f106482a437efaa0",
       "sourceName": "contracts/SeaGuardians.sol",
       "solcConfig": {
         "version": "0.8.22",

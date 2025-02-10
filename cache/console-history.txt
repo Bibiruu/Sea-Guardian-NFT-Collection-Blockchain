@@ -1,3 +1,24 @@
+console.log(`Fetching metadata from: ${metadataUrl}`);
+let metadataUrl = `${baseUrl}${tokenId}.json`;
+let baseUrl = tokenURI.replace(/\d+.json/, "");
+ for (let tokenId = 1; tokenId <= numberOfTokens; tokenId++){ const tokenURI = await nftContract.uri(tokenId); const balance = await nftContract.balanceOf(ownerAddress); console.log(`Token ID: ${tokenId}, URI: ${tokenURI}, Balance: ${balance}`);}
+for (let tokenId = 1; tokenId <= numberOfTokens; tokenId++){ const tokenURI = await nftContract.uri(tokenId); const balance = await nftContract.balanceOf(ownerAddress); console.log(`Token ID: ${tokenId}, URI: ${tokenURI}, Balance: ${balance}`);
+const numberOfTokens=7
+const ownerAddress="0x6971Faf98ab25A4C7e198583a93c7a83Bb7A2475"
+const ownerAddress="0x6971Faf98ab25A4C7e198583a93c7a83Bb7A2475";
+console.log(`Balance of token ${tokenId} for ${ownerAddress}: ${balance}`);
+const balance = await nftContract.balanceOf(ownerAddress, tokenId);
+const ownerAddress="0x6971Faf98ab25A4C7e198583a93c7a83Bb7A2475"
+console.log(`Token URI for token ${tokenId}: ${tokenURI}`);
+const tokenURI = await nftContract.uri(tokenId);
+const tokenId = 1;
+const nftContract = await ethers.getContractAt(abi, contractAddress);
+];
+  "function balanceOf(address owner, uint256 tokenId) public view returns (uint256)"
+  "function uri(uint256 _tokenId) public view returns (string memory)",
+const abi = [
+const contractAddress = "0x02dfbe332ad4913d3635869CA2c118C7571De0e0"
+const { ethers } = require("hardhat");
 console.log("Current token count:", currentTokenCount1.toString());
 const currentTokenCount1 = await seaGuardians.tokenCount();
 const currentTokenCount = await seaGuardians.tokenCount();
