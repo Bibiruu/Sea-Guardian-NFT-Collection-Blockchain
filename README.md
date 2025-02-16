@@ -61,6 +61,7 @@ Built a custom NFT collection, integrating **blockchain technology, AI-generated
 ✔ Integrated **Ethers.js** for real-time blockchain interactions  
 ✔ Created **axios API calls** to fetch NFT metadata  
 ✔ Hosted & optimized performance via **Netlify**  
+✔ Responsive design **MObile Friendly**
 
 ### **🔹 AI NFT Artwork**
 ✔ Generated high-quality **AI-based images** for the collection  
