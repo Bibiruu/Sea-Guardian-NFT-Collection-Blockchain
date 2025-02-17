@@ -13,7 +13,9 @@
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.13"
   }, 
+
   "homepage": "https://Bibiruu.github.io/Sea-Guardian-NFT-Collection-Blockchain/",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
