@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sea-Guardian-NFT-Collection-Blockchain/static/css/main.e6c13ad2.css",
+    "main.js": "/Sea-Guardian-NFT-Collection-Blockchain/static/js/main.3f0d4f5a.js",
+    "index.html": "/Sea-Guardian-NFT-Collection-Blockchain/index.html",
+    "main.e6c13ad2.css.map": "/Sea-Guardian-NFT-Collection-Blockchain/static/css/main.e6c13ad2.css.map",
+    "main.3f0d4f5a.js.map": "/Sea-Guardian-NFT-Collection-Blockchain/static/js/main.3f0d4f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f0d4f5a.js"
+  ]
+}
