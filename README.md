@@ -5,7 +5,6 @@
 Built a custom NFT collection, integrating **blockchain technology, AI-generated art, and a fully responsive frontend**.  
 
 🔗 **Check it out:**  
-[🌟 **Live Demo:** SeaGuardians Web App](YOUR_NETLIFY_DEPLOYMENT_LINK_HERE)  
 [🌟 **SeaGuardians Collection**](https://testnets.opensea.io/collection/seaguardians-collection)  
 
 
@@ -22,8 +21,7 @@ Built a custom NFT collection, integrating **blockchain technology, AI-generated
 ### **Frontend & API**
 - **React + Hooks** – Built for high performance  
 - **Styled-Components** – Modern, responsive UI  
-- **Axios** – Fetching contract metadata  
-- **Netlify** – Seamless deployment  
+- **Axios** – Fetching contract metadata   
 
 ### **AI Artwork & NFT Customization**
 - **AI Tools** – NightCafe, DeviantArt (prompt-based AI image generation)  
@@ -61,7 +59,7 @@ Built a custom NFT collection, integrating **blockchain technology, AI-generated
 ✔ Integrated **Ethers.js** for real-time blockchain interactions  
 ✔ Created **axios API calls** to fetch NFT metadata  
 ✔ Hosted & optimized performance via **Netlify**  
-✔ Responsive design **MObile Friendly**
+✔ Responsive design **Mobile Friendly**
 
 ### **🔹 AI NFT Artwork**
 ✔ Generated high-quality **AI-based images** for the collection  
@@ -89,8 +87,7 @@ Built a custom NFT collection, integrating **blockchain technology, AI-generated
 ## **👋 Work With Me!**
 This project showcases **end-to-end blockchain development, smart contract engineering, Web3 frontend integration, and AI-generated NFT design.**  
 
-🚀 **Want to collaborate?** Let’s bring your vision to life! Reach out today.  
-
+🚀 **Want to collaborate?** Let’s bring your vision to life! Reach out today. 👋😊
 ---
 
 ## **📩 Contact**
