@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Bibiruu/Sea-Guardian-NFT-Collection-Blockchain/issues"
   },
-  "homepage": "https://Bibiruu.github.io/Sea-Guardian-NFT-Collection-Blockchain/",
+  "homepage": "https://seaguardians-collection.on-fleek.app",
   "dependencies": {
     "@openzeppelin/contracts": "^5.1.0",
     "axios": "^1.7.9",
