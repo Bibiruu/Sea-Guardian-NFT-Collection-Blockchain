@@ -4,7 +4,8 @@
 🚀 **NFT Collection officially deployed on OpenSea standards.**  
 Built a custom NFT collection, integrating **blockchain technology, AI-generated art, and a fully responsive frontend**.  
 
-🔗 **Check it out:**  
+🔗 **Check out my NFT dApp:** 
+[🌟 **SeaGuardian Collection on FLEEK**](https://seaguardians-collection.on-fleek.app/)  
 [🌟 **SeaGuardians Collection**](https://testnets.opensea.io/collection/seaguardians-collection)  
 
 
@@ -22,6 +23,7 @@ Built a custom NFT collection, integrating **blockchain technology, AI-generated
 - **React + Hooks** – Built for high performance  
 - **Styled-Components** – Modern, responsive UI  
 - **Axios** – Fetching contract metadata   
+- **Fleek** - Frontend deployment seamlessly with React
 
 ### **AI Artwork & NFT Customization**
 - **AI Tools** – NightCafe, DeviantArt (prompt-based AI image generation)  
